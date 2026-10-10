@@ -1,7 +1,5 @@
 # DUET
 
-Collaborative Utility Recovery for Locally Differentially Private Graph Learning.
-
 This repository contains the core implementation of **DUET**, including dual-view LDP mechanisms, private feature refinement, private link reconstruction, structure-aware feature recovery (SAFR), feature-assisted edge calibration, and GNN training utilities.
 
 ## Requirements
