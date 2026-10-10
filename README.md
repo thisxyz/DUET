@@ -66,19 +66,6 @@ Aligned with the paper's ablation / parameter / privacy analyses:
 - Privacy: MBM + RR, `ε_X=1.0`, `ε_A=8.0`
 - Datasets: Cora, CiteSeer, LastFM, Facebook
 
-## Citation
-
-If you use this code, please cite the DUET paper.
-
-```
-@inproceedings{duet,
-  title={DUET: Collaborative Utility Recovery for Locally Differentially Private Graph Learning},
-  author={},
-  booktitle={},
-  year={}
-}
-```
-
 ## License
 
 For academic research use. Please refer to the paper for experimental protocols and threat models.
